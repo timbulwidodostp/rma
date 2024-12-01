@@ -1,6 +1,8 @@
 # rma
 Fixed-Effects and Random-Effects Models in Meta-Analysis Use rma (metafor) With (In) R Software
 
+https://www.youtube.com/watch?v=odDdfclSvCk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
